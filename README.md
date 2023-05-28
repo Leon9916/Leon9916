@@ -13,9 +13,7 @@
 
 <br />
 
-<div style="display: flex;
-    justify-content: space-around;
-    align-items: center;">
+<div style="display: flex;justify-content: space-around;align-items: center;">
 <p align="left">
   <a> <img align="center" src="https://komarev.com/ghpvc/?username=Leon9916&color=ff69b4"  alt="Leon9916's github ghpvc" /> </a>
 </p>
