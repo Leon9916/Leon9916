@@ -7,11 +7,15 @@
 
 | <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leon9916&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leon9916's github stats" /> </a>
 | <a> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Leon9916"  alt="Leon9916's github vercel" /> </a> | 
-| ------------- | ------------- |
+
 
 </p>
 
 <br />
+
+<p align="left">
+  <a> <img align="center" src="https://komarev.com/ghpvc/?username=Leon9916&color=ff69b4"  alt="Leon9916's github ghpvc" /> </a>
+</p>
 
 <p align="right">
 <a><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a>
