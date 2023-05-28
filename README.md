@@ -5,7 +5,8 @@
     <br />🏀 🕺 🐔 Hellow World  
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leon9916&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leon9916's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon9916&layout=compact&theme=buefy&hide_border=true" /> </a> | <a> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Leon9916"  alt="Leon9916's github vercel" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leon9916&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leon9916's github stats" /> </a>
+| <a> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Leon9916"  alt="Leon9916's github vercel" /> </a> | 
 | ------------- | ------------- |
 
 </p>
