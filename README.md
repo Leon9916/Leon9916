@@ -5,7 +5,7 @@
     <br />🏀 🕺 🐔 Hellow World  
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leon9916&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leon9916's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon9916&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Leon9916&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Leon9916's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leon9916&layout=compact&theme=buefy&hide_border=true" /> </a> | <a> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Leon9916"  alt="Leon9916's github vercel" /> </a> | 
 | ------------- | ------------- |
 
 </p>
@@ -18,5 +18,5 @@
 <a><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a>
 <a><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a> 
 <a><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a> 
-<a><img height="20" alt="electron" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></a> 
+<a><img height="20" alt="vite" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vite/vite.png"></a> 
 </p>
